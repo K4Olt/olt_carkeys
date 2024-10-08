@@ -16,7 +16,6 @@ function isPlayerPolice()
     return playerJob == 'police'
 end
 
--- Toggle vehicle lock/unlock
 function toggleVehicleLock()
     local playerPed = PlayerPedId()
     local playerCoords = GetEntityCoords(playerPed)
