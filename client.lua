@@ -1,6 +1,6 @@
 ESX = exports["es_extended"]:getSharedObject()
 local isLocked = false
-print('Made by OlTi')
+
 
 function playKeyAnimation()
     local playerPed = PlayerPedId()
