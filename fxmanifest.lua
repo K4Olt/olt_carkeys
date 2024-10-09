@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'olti'
 description 'Vehicle Lock'
-version 'BETA VERSION'
+version '1.0.0'
 
 client_scripts {
     'client.lua',
